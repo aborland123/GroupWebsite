@@ -8,7 +8,7 @@ body {
 
 /* Header section styling */
 header {
-    background: #333;
+    background: #000000;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -16,8 +16,8 @@ header {
 
 /* Styling for team logo image */
 .team-logo {
-    width: 150px; /* Adjust the size as needed */
-    margin-top: 10px;
+    width: 125px; /* Adjust the size as needed */
+    margin-top: 5px;
 }
 
 /* Menu button styling */
@@ -26,8 +26,8 @@ header nav {
 }
 
 header nav button {
-    background: #007BFF;
-    color: white;
+    background: #e29deb;
+    color: black;
     border: none;
     padding: 10px 15px;
     border-radius: 5px;
@@ -51,8 +51,8 @@ header nav button:hover {
 /* Card styling for individual team bios */
 .card {
     background: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
     margin: 10px;
     padding: 20px;
     flex: 1 1 calc(30% - 40px);
@@ -77,8 +77,8 @@ h2 {
 
 /* Button styling */
 button {
-    background: #007BFF;
-    color: white;
+    background: #e29deb;
+    color: black;
     border: none;
     padding: 10px 15px;
     border-radius: 5px;
@@ -86,5 +86,5 @@ button {
 }
 
 button:hover {
-    background: #0056b3;
+    background: #dc7ee8;
 }
