@@ -99,3 +99,16 @@ button {
 button:hover {
     background: #dc7ee8;
 }
+
+.moodboard{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.mimg{
+    width: 100%;
+    object-fit: cover;
+}
