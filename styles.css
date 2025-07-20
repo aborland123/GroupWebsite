@@ -112,3 +112,11 @@ button:hover {
     width: 100%;
     object-fit: cover;
 }
+
+.taniyah-header{
+    font-family: 'Lato', sans-serif;
+}
+
+.taniyah-bio-text{
+    font-family: 'Intel One Mono', monospace;
+}
